@@ -1,1 +1,1 @@
-# Terms of Service for lyronix's bot#9467
+# Terms of Service 
