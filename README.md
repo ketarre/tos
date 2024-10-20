@@ -1,4 +1,4 @@
-# Terms of Service (TOS)
+# Terms of Service 
 
 **Last updated:** 10/20/24
 
@@ -6,7 +6,7 @@ By using [Bot Name] (the "Bot"), you agree to the following Terms of Service. If
 
 ## 1. Bot Usage
 
-1.1 **Availability**  
+### 1.1 **Availability**  
 The Bot is provided as-is with no guarantees of uptime or availability. We are not responsible for any issues that arise from the Bot being offline or malfunctioning.
 
 1.2 **Intended Use**  
