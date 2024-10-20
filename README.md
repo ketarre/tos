@@ -7,7 +7,7 @@ By using **lyronix's bot**, you agree to the following Terms of Service. We rese
 ## 1. Bot Usage
 
 - 1.1 **Availability**  
-The Bot is provided as-is with no guarantees of uptime or availability. We are not responsible for any issues that arise from the Bot being offline or malfunctioning.
+The Bot is provided as-is with no guarantees of uptime or availability. We are not responsible for any issues that arise from the Bot being offline or malfunctioning that is outside of our control.
 
 - 1.2 **Intended Use**  
 The Bot is designed to provide an economic system and other features within Discord servers. By using the Bot, you agree to not abuse or exploit the Bot’s features for malicious purposes, including but not limited to spamming, hacking, or circumventing intended functionality.
