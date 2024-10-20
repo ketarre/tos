@@ -37,7 +37,7 @@ The Bot may store basic user information such as user ID, username, and server I
 Server administrators are responsible for configuring and moderating the use of the Bot within their own Discord servers. The Bot developers are not responsible for any misuse or violation of the rules within individual servers.
 
 - 4.2 **Ban and Suspension**  
-We reserve the right to ban or suspend any user from using the Bot if they are found to be violating these Terms of Service, Discord’s Terms of Service, or engaging in behavior that harms other users or the Bot's functionality.
+We reserve the right to ban, suspend, or reset the profile of any user using the Bot if they are found to be violating these Terms of Service, Discord’s Terms of Service, or engaging in behavior that harms other users or the Bot's functionality.
 
 ## 5. Liability
 
