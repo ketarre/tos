@@ -18,21 +18,18 @@ You must be at least 13 years old to use the Bot in compliance with Discord’s 
 ## 2. Economic System
 
 - 2.1 **Virtual Currency**  
-The Bot features a virtual currency system for use within Discord servers. This virtual currency is not exchangeable for real-world money or goods. By using the Bot, you understand and agree that all currency within the Bot is purely virtual and holds no real-world value.
+The Bot features a global virtual currency system for use within Discord servers. This virtual currency is not exchangeable for real-world money or goods. By using the Bot, you understand and agree that all currency within the Bot is purely virtual and holds no real-world value.
 
 - 2.2 **Currency Abuse**  
-Exploiting bugs or glitches within the Bot to gain an unfair advantage in the economic system is strictly prohibited. Users found violating this term may be subject to a ban or reset of their virtual account balance.
+Exploiting bugs or glitches within the Bot to gain an unfair advantage in the economic system is strictly prohibited. Users found violating this term may be subject to a ban from the bot or a total reset of their virtual account balance.
 
-- 2.3 **Currency Reset**  
-The virtual economy may be reset at any time without notice due to updates, bugs, or other reasons. We are not liable for any loss of virtual currency or items due to these resets.
+- 2.3 **Economic Changes**  
+The virtual economy overtime may be affected due to certain events and may lead to resets or removal in certain systems. We are not liable for any loss of virtual currency or items due to these changes.
 
 ## 3. User Data
 
 - 3.1 **Data Collection**  
 The Bot may store basic user information such as user ID, username, and server ID in order to function correctly. We do not share or sell your data to third parties.
-
-- 3.2 **Data Removal**  
-If you wish to have your data removed from the Bot, please contact [Support Contact or Method]. We will remove your data as soon as reasonably possible, though note that certain data may be required for the Bot’s functionality.
 
 ## 4. Server Moderation
 
@@ -48,7 +45,7 @@ We reserve the right to ban or suspend any user from using the Bot if they are f
 The Bot is provided "as-is" without any warranties, express or implied. We do not guarantee that the Bot will meet your requirements or that it will operate uninterrupted or error-free.
 
 - 5.2 **Limitation of Liability**  
-In no event shall the developers of the Bot be liable for any damages, including but not limited to loss of virtual currency, disruption of service, or other technical issues arising from the use or inability to use the Bot.
+In no event shall the developer of the Bot be liable for any damages, including but not limited to loss of virtual currency, disruption of service, or other technical issues arising from the use or inability to use the Bot.
 
 ## 6. Changes to Terms
 
