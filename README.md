@@ -2,7 +2,7 @@
 
 **Last updated:** 10/20/24
 
-By using **lyronix's bot**, you agree to the following Terms of Service. If you do not agree with any of these terms, you may not use the Bot. We reserve the right to modify these terms at any time without prior notice, so please check back regularly for updates.
+By using **lyronix's bot**, you agree to the following Terms of Service. If you do not agree with any of these terms, you may not use the bot. We reserve the right to modify these terms at any time without prior notice, so please check back regularly for updates.
 
 ## 1. Bot Usage
 
@@ -56,4 +56,4 @@ We reserve the right to modify these Terms of Service at any time without prior 
 
 ---
 
-If you have any questions or concerns, please contact us at [Insert Contact Information].
+If you have any questions or concerns, please contact us in the main server at https://discord.gg/tVeqTMnAJA.
