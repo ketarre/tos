@@ -12,9 +12,6 @@ The Bot is provided as-is with no guarantees of uptime or availability. We are n
 - 1.2 **Intended Use**  
 The Bot is designed to provide an economic system and other features within Discord servers. By using the Bot, you agree to not abuse or exploit the Bot’s features for malicious purposes, including but not limited to spamming, hacking, or circumventing intended functionality.
 
-- 1.3 **Age Requirement**  
-You must be at least 13 years old to use the Bot in compliance with Discord’s Terms of Service.
-
 ## 2. Economic System
 
 - 2.1 **Virtual Currency**  
