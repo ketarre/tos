@@ -1,4 +1,4 @@
-# Terms of Service 
+# Terms of Service:
 
 **Last updated:** 10/20/24
 
